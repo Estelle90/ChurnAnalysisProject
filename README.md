@@ -4,6 +4,10 @@
 
 This project analyses customer data to identify the key drivers of churn and uncover patterns that can help improve customer retention. The goal is to turn data into actionable insights that support smarter business decisions and reduce customer attrition.
 
+## 📂 Dataset Source
+
+The dataset used in this project is the [Customer Churn Dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data) from Kaggle.
+
 ## 🔍 Key Findings
 
 - **📅 Contract type matters:** Customers on month-to-month contracts are much more likely to churn than those on longer-term plans.
