@@ -17,7 +17,7 @@ This project analyses customer data to identify the key drivers of churn and unc
 
 - **Language:** Python
 - **Environment:** Anaconda
-- **Libraries:** Pandas for data cleaning, Seaborn and Matplotlib for visualization, and Scikit-learn for modeling
+- **Libraries:** Pandas for data cleaning, Seaborn and Matplotlib for visualisation, and Scikit-learn for modeling
 
 ## 📁 How to Use
 
@@ -30,7 +30,7 @@ This project analyses customer data to identify the key drivers of churn and unc
 
 ## 💡 Business Recommendations
 
-- Prioritize month-to-month customers with targeted retention campaigns.
+- Prioritise month-to-month customers with targeted retention campaigns.
 - Improve support experiences for customers showing early signs of churn.
 - Focus retention efforts on the 55–66 age segment.
 - Monitor payment delays and billing-related issues more closely.
