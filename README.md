@@ -11,10 +11,8 @@ The dataset used in this project is the [Customer Churn Dataset](https://www.kag
 ## 📊 Visuals
 
 ### Churn by Age Group
-![Churn by Age Group](images/churn_age_group.png)
+![Churn by Age Group](images/churn_age_group&gender.png)
 
-### Churn by Contract Length
-![Churn by Contract Length](images/churn_contract_length.png)
 
 ## 🔍 Key Findings
 
