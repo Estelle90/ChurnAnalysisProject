@@ -8,6 +8,14 @@ This project analyses customer data to identify the key drivers of churn and unc
 
 The dataset used in this project is the [Customer Churn Dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data) from Kaggle.
 
+## 📊 Visuals
+
+### Churn by Age Group
+![Churn by Age Group](images/churn_age_group.png)
+
+### Churn by Contract Length
+![Churn by Contract Length](images/churn_contract_length.png)
+
 ## 🔍 Key Findings
 
 - **📅 Contract type matters:** Customers on month-to-month contracts are much more likely to churn than those on longer-term plans.
