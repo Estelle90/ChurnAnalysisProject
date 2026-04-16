@@ -40,3 +40,7 @@ This project analyses customer data to identify the key drivers of churn and unc
 
 This analysis shows that churn is influenced by a mix of contract type, support usage, payment behavior, age, and customer value. These insights can help the business identify high-risk customers earlier and take proactive steps to improve retention and protect revenue.
 
+## 📬 Contact
+
+If you'd like to connect or discuss the project, you can find me on LinkedIn: [Your Name](https://www.linkedin.com/in/estelle-ntimih-85594a1b1/)
+
