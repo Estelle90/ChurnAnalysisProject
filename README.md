@@ -27,8 +27,8 @@ The dataset used in this project is the [Customer Churn Dataset](https://www.kag
 
 - **Language:** Python
 - **Environment:** Anaconda
-- **Libraries:** Pandas for data cleaning, Seaborn and Matplotlib for visualisation, and Scikit-learn for modeling
-
+- **Libraries:** Pandas for data cleaning and manipulation, NumPy for numerical computing, Seaborn and Matplotlib for visualisation
+  
 ## 📁 How to Use
 
 1. Clone the repository:
