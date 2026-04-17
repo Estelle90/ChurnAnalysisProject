@@ -52,5 +52,5 @@ This analysis shows that churn is influenced by a mix of contract type, support 
 
 ## 📬 Contact
 
-If you'd like to connect or discuss the project, you can find me on LinkedIn: [Your Name](https://www.linkedin.com/in/estelle-ntimih-85594a1b1/)
+If you'd like to connect or discuss the project, you can find me on LinkedIn: [Estelle Ntimih](https://www.linkedin.com/in/estelle-ntimih-85594a1b1/)
 
